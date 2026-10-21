@@ -1,0 +1,2 @@
+GT4500,0,0,1,0     # csak a secondary-ben van torpedo
+TORPEDO,ALL

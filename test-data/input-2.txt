@@ -1,0 +1,3 @@
+GT4500,10,0,10,1   # secondary mindig hibazik
+TORPEDO,SINGLE     # primary -> SUCCESS
+TORPEDO,SINGLE     # secondary jon, hibazik -> FAIL
