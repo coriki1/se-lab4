@@ -1,0 +1,3 @@
+GT4500,1,0,0,0     # primary-ben 1 torpedo, secondary ures
+TORPEDO,SINGLE     # primary, kiurul
+TORPEDO,SINGLE     # mindketto ures -> FAIL
